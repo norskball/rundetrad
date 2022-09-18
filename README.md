@@ -7,7 +7,7 @@ https://www.python.org/
 Regneark: 
 https://docs.google.com/spreadsheets/d/1ZIgt7g0u92VvWrwgKQZzN_b2y_xoSMI3oYrnpLLsuQs/edit?usp=sharing
 
-1. Scriptet forutsetter at du har python installert på maskinen.
+1. Scriptet forutsetter at du har python installert.
 
 2. Legg filen rundetrad.py i ei mappe.
 
@@ -18,9 +18,6 @@ https://docs.google.com/spreadsheets/d/1ZIgt7g0u92VvWrwgKQZzN_b2y_xoSMI3oYrnpLLs
 
 5. Klipp/lim fra tekstfilene som dukker opp.
 
-Programmet leter etter hovedrundekamper den neste uka, og omberammede kamper halvannen uke frem i tid. Funker best om det kjøres 0-2 dager før runden.
-Kan ikke garantere at det ikke vil dukke opp noen bugs eller at programmet vil fungere i fremtiden.
-Fritt frem å forbedre og herje med koden som man vil.
-
-
-
+Programmet tar med hovedrundekamper den neste uka, og omberammede kamper halvannen uke fram i tid. Funker best om det kjøres 0-2 dager før runden.
+Kan ikke garantere at programmet virker knirkefritt eller at det ikke slutter å fungere i morgen. 
+Om du vil forbedre eller herje med kildekoden så kjør på.
