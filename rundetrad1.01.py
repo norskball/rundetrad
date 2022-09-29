@@ -75,7 +75,6 @@ def lag_liste(eliteserien):
         file = open("rundetråd - eliteserien.csv", "r")
     else:
         file = open("rundetråd - 1. divisjon.csv", "r")
-        tabell = []
     for line in file:
         line_replace = line.replace(",,", "")
         line_strip = line_replace.strip()
